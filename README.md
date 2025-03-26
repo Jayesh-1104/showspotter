@@ -117,8 +117,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or suggestions, feel free to reach out:
 
-- **GitHub:** [ivikashgorai](https://github.com/ivikashgorai)
-- **Email:** [vikashwork321@gmail.com]
+- **GitHub:** [Jayesh-1104](https://github.com/Jayesh-1104)
+- **Email:** [shewalejayesh6@gmail.com]
 
 ---
 
